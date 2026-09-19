@@ -5,6 +5,12 @@
 ![Data Analyst](https://img.shields.io/badge/Data_Analyst-0078D4?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
+---
+
+### Dashboard Link: [[https://app.powerbi.com/view?r=eyJrIjoiMTVjZDc4OTYtMWI2MS00ZjczLTkzOTctZWMwNjg4NmZmNDEwIiwidCI6IjJhYTJkZTVkLTllNTktNDhlOS04NzU1LTA3YzRiYWExNmEyMiJ9](https://app.powerbi.com/view?r=eyJrIjoiZGI0ZjExN2YtYTZjNS00MTVjLWJiMzgtMTZhZjgzZTA4ZmM4IiwidCI6IjJhYTJkZTVkLTllNTktNDhlOS04NzU1LTA3YzRiYWExNmEyMiJ9)]
+
+---
+
 ## 📌 Project Overview
 
 An executive-level, interactive two-page **Power BI** dashboard engineered to analyze workforce turnover drivers, quantify attrition risks, and evaluate retention metrics. Utilizing custom DAX calculations and clean executive UI/UX design standards, this project transforms HR employee data into interactive insights for analyzing workforce attrition patterns.
